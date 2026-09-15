@@ -11,7 +11,7 @@ Pontifícia Universidade Católica de Goiás, Escola Politécnica.
 
 | | |
 |---|---|
-| Aluno | PREENCHER NOME COMPLETO |
+| Aluno | Pedro Blamires Cordeiro |
 | Matrícula | 2024.1.0028.0229-4 |
 | Curso | Ciência da Computação |
 | Disciplina | Criptografia Aplicada — 2026.2-CMP2195/C02 |
